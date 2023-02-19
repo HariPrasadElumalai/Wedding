@@ -63,7 +63,7 @@ class Welcome extends React.Component {
                     fadeImages: images[this.state.count].url
                 });
 
-            }, 3000);
+            }, 2940);
         },
             18000
         );
