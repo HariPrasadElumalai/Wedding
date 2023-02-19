@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Wedding/static/css/main.1a0c3a5a.css",
+    "main.js": "/Wedding/static/js/main.239b078f.js",
+    "static/js/787.4ff3cea1.chunk.js": "/Wedding/static/js/787.4ff3cea1.chunk.js",
+    "static/media/1.jpg": "/Wedding/static/media/1.d22b5781e5eab229e079.jpg",
+    "static/media/Temple.mp3": "/Wedding/static/media/Temple.3ace2af61a7968c0066f.mp3",
+    "static/media/7.jpg": "/Wedding/static/media/7.08eaae8363f2908079ab.jpg",
+    "static/media/5.jpg": "/Wedding/static/media/5.03072c6db60393f6248d.jpg",
+    "static/media/4.jpg": "/Wedding/static/media/4.f64cf5656af5b818b1c5.jpg",
+    "static/media/6.jpg": "/Wedding/static/media/6.e89de4c1556a8f3f5f61.jpg",
+    "static/media/3.jpg": "/Wedding/static/media/3.424402de66e117962719.jpg",
+    "static/media/2.jpg": "/Wedding/static/media/2.0850a3fb3fc810459ed0.jpg",
+    "static/media/background.jpg": "/Wedding/static/media/background.526a6ef4ab60eb9b76f6.jpg",
+    "static/media/Invitation1.jpg": "/Wedding/static/media/Invitation1.9a777a9fc4672c43d63e.jpg",
+    "index.html": "/Wedding/index.html",
+    "main.1a0c3a5a.css.map": "/Wedding/static/css/main.1a0c3a5a.css.map",
+    "main.239b078f.js.map": "/Wedding/static/js/main.239b078f.js.map",
+    "787.4ff3cea1.chunk.js.map": "/Wedding/static/js/787.4ff3cea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a0c3a5a.css",
+    "static/js/main.239b078f.js"
+  ]
+}
