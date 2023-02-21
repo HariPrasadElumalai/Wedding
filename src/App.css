@@ -304,6 +304,15 @@ h2 {
   }
 }
 
+@media only screen and (min-width: 810px) {
+  .slide-container {
+    padding-left: 1em;
+    width: 17em;
+    height: 17em;
+  }
+}
+
+
 @media only screen and (max-width: 769px) {
   .slide-container {
     padding-left: 1em;
