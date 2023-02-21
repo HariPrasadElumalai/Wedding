@@ -73,6 +73,8 @@ p {
   padding-left: 3em;
   font-family: 'Titillium Web', sans-serif;
   font-weight: 600;
+  align-items: center;
+  justify-content: center;
 }
 
 .slide-container {
@@ -346,6 +348,10 @@ h2 {
   .details {
     width: 75%;
     font-size: large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   .hh {
@@ -366,6 +372,10 @@ h2 {
   .details {
     font-size: initial;
     margin-right: -9em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -378,6 +388,10 @@ h2 {
     font-size: 0.5em;
     padding-left: 5em;
     margin-right: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   .hh {
@@ -388,6 +402,10 @@ h2 {
 @media only screen and (max-width: 361px) {
   .details {
     padding-left: 5.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   .slide-container {
